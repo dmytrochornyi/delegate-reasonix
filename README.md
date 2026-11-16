@@ -3,7 +3,7 @@
 [Русская версия](README.ru.md)
 
 A [Claude Code](https://claude.com/claude-code) skill that splits work between two agents:
-**Claude plans and audits, Reasonix (a DeepSeek-powered coding
+**Claude plans and audits, [Reasonix](https://github.com/esengine/DeepSeek-Reasonix) (a DeepSeek-powered coding
 agent) writes the code.** Claude does the reasoning, Reasonix does the bulk implementation, which saves
 Claude tokens on large tasks.
 

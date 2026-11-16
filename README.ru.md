@@ -3,7 +3,7 @@
 [English version](README.md)
 
 Скилл для [Claude Code](https://claude.com/claude-code), который делит работу между двумя агентами:
-**Claude планирует и проверяет, Reasonix (агент на DeepSeek)
+**Claude планирует и проверяет, [Reasonix](https://github.com/esengine/DeepSeek-Reasonix) (агент на DeepSeek)
 пишет код.** Claude думает, Reasonix делает основную реализацию, и на больших задачах это экономит
 токены Claude.
 
